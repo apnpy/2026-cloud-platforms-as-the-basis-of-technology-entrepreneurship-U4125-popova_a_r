@@ -25,6 +25,19 @@ Date of finished:
 
 2. Перейдем к созданию виртуальной машины:
 
-   Создала виртуальную машину с Machine type e2-micro в режиме spot:
-![Uploading image.png…]()
+   Создала виртуальную машину с Machine type e2-micro в режиме spot (Минимальная конфигурация ресурсов):
+<img width="1440" height="780" alt="image" src="https://github.com/user-attachments/assets/ca7fbc32-b8b0-4697-bbba-38ff2885be0e" />
+<img width="1131" height="731" alt="image" src="https://github.com/user-attachments/assets/1a2bbd41-8a7a-405b-9060-e8c91ea16f26" />
+
+3. Нашла бакет при помощи утилиты и скопировала оттуда файлы на свою локальную VM
+<img width="1440" height="777" alt="image" src="https://github.com/user-attachments/assets/b5c91b28-48e1-42fa-b3c1-244d2e77068e" />
+
+4. Перешла к изменению прав для моего service account - поменяла storage admin на compute viewer
+<img width="1440" height="773" alt="image" src="https://github.com/user-attachments/assets/a6fe9a38-4042-49aa-a160-7d7861235fb6" />
+
+5. Повторно скопировала данные в папку на мою VM - данные скопировались (обновились)
+<img width="1440" height="778" alt="image" src="https://github.com/user-attachments/assets/d71b2ecb-092e-4128-9ba2-c1c5bc507b6b" />
+6. Остановила и удалила VM
+<img width="1440" height="781" alt="image" src="https://github.com/user-attachments/assets/c56b0010-fff8-4f16-b055-e478cb30b174" />
+<img width="1440" height="777" alt="image" src="https://github.com/user-attachments/assets/38041747-fb34-4679-af48-d0c64dafcdc3" />
 
