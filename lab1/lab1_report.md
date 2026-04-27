@@ -37,7 +37,9 @@ Date of finished:
 
 5. Повторно скопировала данные в папку на мою VM - данные скопировались (обновились)
 <img width="1440" height="778" alt="image" src="https://github.com/user-attachments/assets/d71b2ecb-092e-4128-9ba2-c1c5bc507b6b" />
-6. Остановила и удалила VM
+После изменения роли сервисного аккаунта с Storage Admin на Compute Viewer доступ к данным в бакете сохранился. Это связано с тем, что доступ к Cloud Storage может предоставляться другими ролями (например, Editor) или наследоваться на уровне проекта. Таким образом, удаление одной роли не всегда приводит к потере доступа, если существуют другие разрешения.
+
+7. Остановила и удалила VM
 <img width="1440" height="781" alt="image" src="https://github.com/user-attachments/assets/c56b0010-fff8-4f16-b055-e478cb30b174" />
 <img width="1440" height="777" alt="image" src="https://github.com/user-attachments/assets/38041747-fb34-4679-af48-d0c64dafcdc3" />
 
