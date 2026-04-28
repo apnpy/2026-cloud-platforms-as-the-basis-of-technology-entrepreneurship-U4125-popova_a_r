@@ -48,8 +48,6 @@ Date of finished:
 <img width="1440" height="698" alt="image" src="https://github.com/user-attachments/assets/c933a9da-a00b-4014-91bf-2cc5173930bd" />
 
 8. Я удалила права для группы allUsers и повторно попробовала обратиться к бакету:
-<img width="1440" height="163" alt="image" src="https://github.com/user-attachments/assets/b7d95a39-a24e-4cd3-bd31-9e7254b6de2b" />
-
 9. Теперь скачивание файлов стало недоступным - отображается ошибка.
 <img width="1440" height="163" alt="image" src="https://github.com/user-attachments/assets/3bb647f4-84da-4041-a292-5144a38aa651" />
 
