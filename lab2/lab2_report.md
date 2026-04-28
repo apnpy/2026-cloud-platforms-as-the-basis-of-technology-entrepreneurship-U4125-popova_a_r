@@ -1,5 +1,22 @@
-<img width="1182" height="551" alt="image" src="https://github.com/user-attachments/assets/2ac0c00c-e1ca-4702-9c6e-7d83408139fa" />
-# Отчет по работе
+University: [ITMO University](https://itmo.ru/ru/)
+
+Faculty: [FICT](https://fict.itmo.ru)
+
+Course: [Cloud platforms as the basis of technology entrepreneurship](https://) ADD link
+
+Year: 2026
+
+Group: U4125
+
+Author: Popova Alina Romanovna
+
+Lab: Lab2
+
+Date of create: 28.04.2026
+
+Date of finished: 
+
+#Отчет по лабораторной работе
 
 1. Перешла в Cloud Run -> Services -> Create Cloud Service
 <img width="1440" height="781" alt="image" src="https://github.com/user-attachments/assets/be256950-a0ec-4ce8-8bb9-6be3e1130a41" />
