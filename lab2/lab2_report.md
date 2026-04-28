@@ -17,7 +17,7 @@ Date of create: 28.04.2026
 Date of finished: 
 
 
-##Отчет по лабораторной работе
+# Отчет по лабораторной работе
 
 
 1. Перешла в Cloud Run -> Services -> Create Cloud Service
