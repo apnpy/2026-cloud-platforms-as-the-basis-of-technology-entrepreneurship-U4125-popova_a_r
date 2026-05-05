@@ -2,7 +2,7 @@ University: [ITMO University](https://itmo.ru/ru/)
 
 Faculty: [FICT](https://fict.itmo.ru)
 
-Course: [Cloud platforms as the basis of technology entrepreneurship](https://) ADD link
+Course: [Cloud platforms as the basis of technology entrepreneurship](https://) 
 
 Year: 2026
 
@@ -193,6 +193,14 @@ $0.10/час за кластер
 Стоимость: 5 - 100 $
 Источник: https://cloud.google.com/products/observability/pricing?hl=ru#monitoring-costs
 Оплата за объем логов и метрик
+
+## Таблица расчета
+
+| Параметр               | MVP     | Тестирование | Production |
+| ---------------------- | ------- | ------------ | ---------- |
+| **Пользователи (MAU)** | 1 000   | 5 000        | 15 000     |
+| **Запросы в день**     | ~30 000 | ~150 000     | ~500 000   |
+| **AI запросы/день**    | ~2 000  | ~10 000      | ~30 000    |
 
 
   
